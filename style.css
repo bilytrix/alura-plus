@@ -19,3 +19,12 @@
  .container{
    height: 100vh;
  }
+
+ .conteiner-botao{
+  background-color: var(--botao-azul);
+  border-radius: 5px;
+  padding: lem;
+  color: var(--branco);
+  display: block;
+
+ }
