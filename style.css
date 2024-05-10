@@ -31,3 +31,8 @@
    background-color: transparent;
    color: var(--cinza);
  }
+
+ .container-aviso{
+   font-size: 12px;
+   color: var(--cinza);
+ }
